@@ -44,8 +44,7 @@ For more information or collaboration opportunities, please contact:
 Dr. Kristin Eccles  
 Research Scientist  
 Lead, Computational Toxicology Research Group  
-Environmental Health Science and Research Bureau (EHSRB)  
-Health Canada
+kristin.eccles@hc-sc.gc.ca
 
 ## License
 Unless otherwise specified, all code in this organization is released under an open-source license appropriate to each project. See individual repositories for details.
